@@ -17,4 +17,3 @@ module OriginApp
     # the framework and any gems in your application.
   end
 end
-aaa
